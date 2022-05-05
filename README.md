@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FernandoLuisMatsinhe
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning ASP.NET
 - 💞️ I’m looking to collaborate on networking 
 - 📫 How to reach me +258 847879531
 
